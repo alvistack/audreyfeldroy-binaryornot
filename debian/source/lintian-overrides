@@ -1,0 +1,6 @@
+python-binaryornot source: file-without-copyright-information
+python-binaryornot source: license-problem-non-free-img-lenna
+python-binaryornot source: no-debian-changes
+python-binaryornot source: source-contains-prebuilt-windows-binary
+python-binaryornot source: source-is-missing
+python-binaryornot source: source-package-encodes-python-version
