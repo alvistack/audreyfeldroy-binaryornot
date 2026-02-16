@@ -53,3 +53,4 @@ binaryornot_profile
 
 # Hypothesis
 .hypothesis
+.pybuild/

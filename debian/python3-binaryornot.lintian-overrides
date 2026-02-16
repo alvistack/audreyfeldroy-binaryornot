@@ -1,0 +1,4 @@
+python3-binaryornot: copyright-without-copyright-notice
+python3-binaryornot: initial-upload-closes-no-bugs
+python3-binaryornot: no-manual-page
+python3-binaryornot: zero-byte-file-in-doc-directory
